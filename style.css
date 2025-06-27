@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px;
+    padding: 8px;
+    color: rgb(120, 55, 240);
+    text-align: center;
+    border: 2px solid springgreen;
+    border-radius: 12px;
+}
